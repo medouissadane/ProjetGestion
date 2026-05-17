@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fade4f2b-6ddd-4148-a2b1-fa9b480ed1f4" name="Changes" comment="" />
+    <list default="true" id="fade4f2b-6ddd-4148-a2b1-fa9b480ed1f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetGestion/src/main/java/com/example/gestion/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetGestion/src/main/java/com/example/gestion/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetGestion/src/main/java/com/example/gestion/service/HomeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetGestion/src/main/java/com/example/gestion/service/HomeService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779022911046</updated>
-      <workItem from="1779022917274" duration="646000" />
+      <workItem from="1779022917274" duration="1579000" />
     </task>
     <servers />
   </component>

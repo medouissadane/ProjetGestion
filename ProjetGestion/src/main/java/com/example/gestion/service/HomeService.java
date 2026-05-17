@@ -7,4 +7,7 @@ public class HomeService {
     public String m1() {
         return "Bonjour tout le monde";
     }
+    public String m2() {
+        return "Bonsoir tout le monde";
+    }
 }

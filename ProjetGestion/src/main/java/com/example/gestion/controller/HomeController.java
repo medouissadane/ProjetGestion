@@ -15,4 +15,8 @@ public class HomeController {
     public String callM1() {
         return service.m1();
     }
+    @RequestMapping("/ch2")
+    public String callM2() {
+        return service.m2();
+    }
 }
